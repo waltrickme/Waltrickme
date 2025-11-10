@@ -27,5 +27,9 @@ Profissional curioso e estudante de Análise de Dados, com interesse em desenvol
 • Visualização de Dados e Dashboards com Excel e Cognos, IBM
 • Fundamentos do Excel para Análise de Dados, IBM
 
+
+
 ## Contato
-- Email: waltrickme@gmail.com  
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/waltrick"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:waltrickme@gmail.com"/>
+
