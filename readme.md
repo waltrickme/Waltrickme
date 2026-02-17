@@ -10,7 +10,7 @@ Profissional curioso e estudante de Análise de Dados, com interesse em desenvol
 ## Proficiência em Idiomas
 - **Português**: Nativo
 - **Inglês**: Fluente
-- **Francês**: Intermediário B1
+- **Francês**: Iniciante 
 - **Espanhol**: Intermediário B1
 - **Italiano**: Intermediário B1
 - **Polaco**: Iniciante A1
